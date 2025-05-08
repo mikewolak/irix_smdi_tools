@@ -1,7 +1,7 @@
 # IRIX SMDI Tools
 
 **Version 1.0**  
-**Copyright B) 2025 Mike Wolak (mikewolak@gmail.com)**  
+**Copyright (c) 2025 Mike Wolak (mikewolak@gmail.com)**  
 **Licensed under GNU GPL 3.0**
 
 ## Overview
