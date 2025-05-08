@@ -49,3 +49,5 @@ This implementation is specifically designed for IRIX 5.3 on MIPS platforms and 
 - Audio File Library (for AIF support)
 
 ## Building
+
+- type 'make'
